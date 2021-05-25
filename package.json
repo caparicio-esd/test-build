@@ -10,5 +10,8 @@
     "eslint": "^7.25.0",
     "sass": "^1.32.11",
     "vite": "^2.2.3"
+  },
+  "dependencies": {
+    "chart.js": "^3.3.0"
   }
 }
